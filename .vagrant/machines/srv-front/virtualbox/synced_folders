@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/frontend":{"guestpath":"/home/vagrant/frontend","hostpath":"C:/Users/DELL/IdeaProjects/frontend","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/DELL/Documents/DITI5/Semestre1/DevOps/Tp3_DevOps","disabled":false,"__vagrantfile":true}}}
